@@ -1,0 +1,10 @@
+# template files
+.editorconfig
+
+# c# files
+bin
+obj
+*.sln
+
+# vscode files
+.vscode
